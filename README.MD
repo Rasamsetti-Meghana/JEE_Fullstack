@@ -1,2 +1,2 @@
-# java APplication
+# java Application
 ## jkjk
