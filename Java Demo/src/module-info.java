@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author MRASAMSE
+ *
+ */
+module Java {
+}
